@@ -1,2 +1,3 @@
 # rest-api-test
-Test
+npm run compile-typescript
+npm start
